@@ -1,0 +1,28 @@
+name: floatgnosis
+favicon: null
+layout_spectrum: 0.44529512245208025
+typography_spectrum: 0.7342996671795845
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.9644027641043067
+  lightness: 0.7086828325409442
+  saturation: 0.9639109887648374
+  rhythmicContrast: 0.5003640071954578
+purpose: []
